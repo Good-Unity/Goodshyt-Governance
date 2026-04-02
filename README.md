@@ -1,6 +1,11 @@
 # GoodShyt Governance
 
+![GoodShyt Governance Logo](assets/logos/primary.svg)
+
 Ethical validation, policy enforcement, guardrails, and transparency auditing for accountable intelligent systems.
+
+## Brand line
+**Guardrails With Accountability**
 
 ## Features
 - policy rule engine
@@ -15,5 +20,11 @@ pip install -e .[dev]
 uvicorn goodshyt_governance.api:app --reload
 ```
 
+## Visual assets
+- `assets/logos/primary.svg`
+- `assets/logos/mark-dark.svg`
+- `assets/covers/repo-cover.svg`
+
 **Architected by Deonte Watts**  
-**GoodShyt Group**
+**GoodShyt Group**  
+*Ethical Infrastructure for Human and Community Flourishing*
